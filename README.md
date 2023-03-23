@@ -1,1 +1,1 @@
-# Data-Minig-Projects
+# Data-Mining-Projects
