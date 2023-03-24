@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-Machine Learning
+
 #PetSmart Sentiment Analysis (Python, Tableau, Tweepy, Twitter API, transformers)
 • Performed web scraping using tweepy library and utilized python frameworks for implementing Text Analysis techniques: 
 Tokenization, Stemming, Lemmatization, Stopword Removal and POS Tagging to extract relevant information.
